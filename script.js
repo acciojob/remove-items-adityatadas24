@@ -7,8 +7,8 @@ function removeSelectedColor() {
       var selectedIndex = colorSelects.selectedIndex;
       
      
-      if (selectedIndex !== -1) {
+     
 
         colorSelects.remove(selectedIndex);
-      }
+   
     }
